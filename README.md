@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jachelil
+- 👋 Hi, I’m Jalil. Sophomore @NUS.
 
 <!---
 jachelil/jachelil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
