@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jalil. Sophomore @NUS studying Computer Science and Mathematics.
+- 👋 Hi, I'm Jalil, sophomore @NUS studying Computer Science and Mathematics.
 
 <!---
 jachelil/jachelil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
