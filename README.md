@@ -1,4 +1,5 @@
-- 👋 Hi, I'm Jalil, sophomore @NUS studying Computer Science and Mathematics.
+- 👋 Hi, I'm Jalil, a sophomore at National University of Singapore (NUS) majoring in Computer Science and Mathematics.
+- I’m passionate about Machine Learning, Theoretical Computer Science, and Mathematics, and currently exploring various research directions in these fields. 
 
 <!---
 jachelil/jachelil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
